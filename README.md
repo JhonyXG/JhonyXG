@@ -18,15 +18,6 @@
   <img align="center" alt="Jhony-CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
 
----
-
-### 🚀 Meus Projetos C#
-
-- [Projeto 1 - Jogo de Adivinhação](https://github.com/JhonyXG/projeto1)
-- [Projeto 2 - Calculadora](https://github.com/JhonyXG/projeto2)
-- [Projeto 3 - Sistema de Login](https://github.com/JhonyXG/projeto3)
-
-<!-- Quando criar mais projetos, basta adicionar mais linhas aqui -->
 
 ---
 
