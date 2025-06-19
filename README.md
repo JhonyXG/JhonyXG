@@ -1,9 +1,9 @@
-## 👋 Bem-vindo(a) ao perfil do **JhonyXG**
+# 👋 Bem-vindo(a) ao perfil do **JhonyXG**
 
 <div align="center">
   <a href="https://github.com/JhonyXG">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonyxg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyxg&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyxg&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1"/>
   </a>
 </div>
 
@@ -20,13 +20,23 @@
 
 ---
 
+### 🚀 Meus Projetos C#
+
+- [Projeto 1 - Jogo de Adivinhação](https://github.com/JhonyXG/projeto1)
+- [Projeto 2 - Calculadora](https://github.com/JhonyXG/projeto2)
+- [Projeto 3 - Sistema de Login](https://github.com/JhonyXG/projeto3)
+
+<!-- Quando criar mais projetos, basta adicionar mais linhas aqui -->
+
+---
+
 ### 🌐 Entre em contato comigo!
 
 <div align="center">
   <a href="https://www.instagram.com/jhonatankkkj/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:jhonatandeveloper3232@gmail.com" target="_blank">
+  <a href="mailto:jhonatanalvespessoal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
